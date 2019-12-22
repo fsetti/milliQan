@@ -1,0 +1,9 @@
+
+mcp_m0p5_q0p005_geant_NTUPLE_testmixv2	m0p5_q0p005
+mcp_m0p5_q0p01_geant_NTUPLE_testmixv2	m0p5_q0p01
+mcp_m0p5_q0p02_geant_NTUPLE_testmixv2	m0p5_q0p02
+mcp_m0p5_q0p03_geant_NTUPLE_testmixv2   m0p5_q0p03
+mcp_m0p5_q0p05_geant_NTUPLE_testmixv2   m0p5_q0p05
+mcp_m0p5_q0p07_geant_NTUPLE_testmixv2	m0p5_q0p07
+mcp_m0p5_q0p1_geant_NTUPLE_testmixv2    m0p5_q0p1
+

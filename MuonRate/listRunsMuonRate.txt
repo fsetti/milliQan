@@ -1,0 +1,12 @@
+// first (second) column == run number and denominator (numerator) of the efficiency ratio
+// third == trig threshold on probe channel
+// fourth column == probe channel
+// fifth and sixth== tag channels
+
+//	Study muon rate by requiring 4 hits in slabs 18,20,21,28. Use beam-on data only 
+
+
+//	1460_Physics	18	20	21	28
+1457_Physics	18	20	21	28
+1375_Physics	18	20	21	28
+//	1436_Physics	18	20	21	28
